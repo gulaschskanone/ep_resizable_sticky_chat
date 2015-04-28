@@ -1,7 +1,7 @@
 {
     "parts": [
         {
-            "name": "PLUGINNAME",
+            "name": "ep_resizable_sticky_chat",
             "hooks": {
                 "HOOKNAME" : "ep_FOLDERNAME/index:FUNCTIONNAME1"
             },

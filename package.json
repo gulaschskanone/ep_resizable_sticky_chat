@@ -1,8 +1,8 @@
 {
-	"name": "ep_PLUGINNAME",
+	"name": "ep_resizable_sticky_chat",
 	"version": "0.0.1",
 	"description": "DESCRIPTION",
-	"author": "USERNAME (REAL NAME) <MAIL@EXAMPLE.COM>",
+	"author": "Christoph Becker <christoph.becker@uni-passau.de>",
 	"contributors": [],
 	"dependencies": {"MODULE": "0.3.20"},
 	"engines": { "node": ">= 0.6.0"}

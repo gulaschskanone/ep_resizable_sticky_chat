@@ -1,10 +1,7 @@
-ep_base
+ep_resizable_sticky_chat
 =======
 
-A sample etherpad-lite plugin
 
-# notes
-    replace all CAPITALIZED names with whatever you want
 
 # installing
 
