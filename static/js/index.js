@@ -1,2 +1,2 @@
-exports.FUNCTIONNAME1 = function(hook, context){
+exports.init = function(hook, context){
 }
