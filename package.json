@@ -1,9 +1,24 @@
 {
-	"name": "ep_resizable_sticky_chat",
-	"version": "0.0.1",
-	"description": "DESC",
-	"author": "Christoph Becker <christoph.becker@uni-passau.de>",
-	"contributors": [],
-	"dependencies": {},
-	"engines": { "node": ">= 0.6.0"}
+  "name": "ep_resizable_sticky_chat",
+  "version": "0.0.1",
+  "description": "DESC",
+  "author": "Christoph Becker <christoph.becker@uni-passau.de>",
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulaschskanone/ep_resizable_sticky_chat.git"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/gulaschskanone/ep_resizable_sticky_chat/issues"
+  },
+  "homepage": "https://github.com/gulaschskanone/ep_resizable_sticky_chat"
 }
